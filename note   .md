@@ -424,6 +424,17 @@ Displays either purchase-event counts or view-to-purchase ratios for the ten lea
 
 All charts should have meaningful titles, axis labels, readable tick labels, and consistent formatting. The files saved in `visuals/` should correspond to the figures presented in the notebook.
 
+
+## Interactive Visualizations
+
+Click the links below to open the charts directly in your browser, with no download required:
+
+| Visualization | Description | Link |
+|---|---|---|
+| E-Commerce Conversion Funnel | Overall conversion funnel analysis | [Open](https://kerimovaayse80-ui.github.io/E-Commerce-Funnel-Analysis/visual/ecommerce_conversion_funnel.html) |
+| Sequential Funnel | Step-by-step (sequential) funnel analysis | [Open](https://kerimovaayse80-ui.github.io/E-Commerce-Funnel-Analysis/visual/sequential_funnel.html) |
+
+> **Note:** The charts are interactive. Hover over them to see exact values. Because the files are large, the first load may take a few seconds.
 ---
 
 ## 13. Limitations
