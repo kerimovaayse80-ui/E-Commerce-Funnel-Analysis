@@ -104,6 +104,17 @@ Visualizations were created to communicate funnel performance, monthly trends, a
 
 Product views represent the largest share of recorded events, while purchases account for a smaller proportion.
 
+## Interactive Visualizations
+
+Click the links below to open the charts directly in your browser, with no download required:
+
+| Visualization | Description | Link |
+|---|---|---|
+| E-Commerce Conversion Funnel | Overall conversion funnel analysis | [Open](https://kerimovaayse80-ui.github.io/E-Commerce-Funnel-Analysis/visual/ecommerce_conversion_funnel.html) |
+| Sequential Funnel | Step-by-step (sequential) funnel analysis | [Open](https://kerimovaayse80-ui.github.io/E-Commerce-Funnel-Analysis/visual/sequential_funnel.html) |
+
+> **Note:** The charts are interactive. Hover over them to see exact values. Because the files are large, the first load may take a few seconds.
+
 ### Overall Funnel Metrics
 
 | Metric | Result |
